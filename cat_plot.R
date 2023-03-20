@@ -118,3 +118,5 @@ raw_data |>
   ggplot(aes(sample = y)) +
   geom_qq() +
   geom_qq_line()
+
+
